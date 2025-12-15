@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "未来",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T05:42:29.510967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/01_未来_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "手紙 ~未来",
+      "artist": "Ketsumeishi",
+      "has_synced": false,
+      "path": "select/02_手紙_~未来_Ketsumeishi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "手紙～未来",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/03_手紙~未来_ケツメイシ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/04_未来_星野源.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": false,
+      "path": "select/05_未来_Hiromi_Iwasaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mirai [未来]",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/06_Mirai_[未来]_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未来(cover) - Live at 豊洲PIT 2021.12.22",
+      "artist": "楠木 ともり",
+      "has_synced": true,
+      "path": "select/07_未来(cover)_-_Live_at_豊洲PIT_2021.12.22_楠木_ともり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未来（cover） (Live at 豊洲PIT 2021.12.22)",
+      "artist": "楠木　ともり",
+      "has_synced": true,
+      "path": "select/08_未来(cover)_(Live_at_豊洲PIT_2021.12.22)_楠木_ともり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/09_未来_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/10_未来_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "未来(あした)/ 미래",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/11_未来(あした)__미래_BTOB.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/12_未来_BTOB.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "未来 (Instrumental)",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/13_未来_(Instrumental)_BTOB.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "未来",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/14_未来_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "未来(あした)",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/15_未来(あした)_BTOB.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛*未来",
+      "artist": "菊池桃子",
+      "has_synced": false,
+      "path": "select/16_愛_未来_菊池桃子.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛・未来",
+      "artist": "Momoko Kikuchi",
+      "has_synced": false,
+      "path": "select/17_愛・未来_Momoko_Kikuchi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_未来_Mr.Children.txt"
+    }
+  ]
+}
